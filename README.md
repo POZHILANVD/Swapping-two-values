@@ -19,8 +19,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-# Developed by:POZHILAN V.D
-# Register Number:212223240118
+Developed by:POZHILAN V.D
+Register Number:212223240118
 ```
 a=input()
 b=input()
